@@ -1,0 +1,2 @@
+debian/bin/batld usr/bin
+src/batld usr/lib/batl

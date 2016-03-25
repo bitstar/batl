@@ -1,0 +1,9 @@
+Building BATL
+
+See doc/readme-qt.rst for instructions on building BATL QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BATL.
+
+See doc/build-*.txt for instructions on building batld,
+the intended-for-services, no-graphical-interface, reference
+implementation of BATL.
