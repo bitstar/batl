@@ -7,23 +7,23 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
-	<string>BATL-Qt</string>
+	<string>BattlestarCoin-Qt</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>BATL-Qt</string>
+	<string>BattlestarCoin-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>co.batl.BATL-Qt</string>
+	<string>co.BattlestarCoin.BattlestarCoin-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>co.batl.BATLPayment</string>
+            <string>co.BattlestarCoin.BattlestarCoinPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>batl</string>
+              <string>battlestarcoin</string>
             </array>
           </dict>
         </array>

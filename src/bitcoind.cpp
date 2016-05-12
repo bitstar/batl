@@ -50,12 +50,12 @@ bool AppInit(int argc, char* argv[])
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
             // First part of help message is specific to bitcoind / RPC client
-            std::string strUsage = _("BATL version") + " " + FormatFullVersion() + "\n\n" +
+            std::string strUsage = _("BattlestarCoin version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  batld [options]                     " + "\n" +
-                  "  batld [options] <command> [params]  " + _("Send command to -server or batld") + "\n" +
-                  "  batld [options] help                " + _("List commands") + "\n" +
-                  "  batld [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  battlestarcoind [options]                     " + "\n" +
+                  "  battlestarcoind [options] <command> [params]  " + _("Send command to -server or battlestarcoind") + "\n" +
+                  "  battlestarcoind [options] help                " + _("List commands") + "\n" +
+                  "  battlestarcoind [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 
@@ -65,7 +65,7 @@ bool AppInit(int argc, char* argv[])
 
         // Command-line RPC
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "batl:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "battlestarcoin:"))
                 fCommandLine = true;
 
         if (fCommandLine)

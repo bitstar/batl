@@ -1,4 +1,4 @@
 
-BATL development tree
+BattlestarCoin development tree
 
-BATL is a PoS-based cryptocurrency.
+BattlestarCoin is a PoS-based cryptocurrency.

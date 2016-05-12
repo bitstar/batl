@@ -58,11 +58,13 @@ inline bool IsProtocolV1RetargetingFixed(int nHeight) { return TestNet() || nHei
 inline bool IsProtocolV2(int nHeight) { return TestNet() || nHeight > 0; }
 inline bool IsProtocolV3(int64_t nTime) { return TestNet() || nTime > 1455049921; }
 
+inline bool IsProtocolBATL(int nHeight) { return TestNet() || nHeight > 130000; }
+
 inline int64_t FutureDriftV1(int64_t nTime) { return nTime + 120 * 60; }  // was 10
 inline int64_t FutureDriftV2(int64_t nTime) { return nTime + 120 * 60; }  // was 10
 inline int64_t FutureDrift(int64_t nTime, int nHeight) { return IsProtocolV2(nHeight) ? FutureDriftV2(nTime) : FutureDriftV1(nTime); }
 
-inline unsigned int GetTargetSpacing(int nHeight) { return IsProtocolV2(nHeight) ? 32 : 60; }
+inline unsigned int GetTargetSpacing(int nHeight) { return IsProtocolBATL(nHeight) ? 64 : ( IsProtocolV2(nHeight) ? 32 : 60 ); }
 
 extern CScript COINBASE_FLAGS;
 extern CCriticalSection cs_main;

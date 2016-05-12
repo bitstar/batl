@@ -5,20 +5,20 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About BATL</source>
-        <translation>About BATL</translation>
+        <source>About BattlestarCoin</source>
+        <translation>About BattlestarCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;BATL&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;BATL&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;BattlestarCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;BattlestarCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014-2016 The BlackCoin developers
-Copyright © 2016 The BATL developers</source>
+Copyright © 2016 The BattlestarCoin developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -61,8 +61,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your BATL addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>These are your BATL addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
+        <source>These are your BattlestarCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>These are your BattlestarCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -76,8 +76,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a BATL address</source>
-        <translation>Sign a message to prove you own a BATL address</translation>
+        <source>Sign a message to prove you own a BattlestarCoin address</source>
+        <translation>Sign a message to prove you own a BattlestarCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -91,8 +91,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified BATL address</source>
-        <translation>Verify a message to ensure it was signed with a specified BATL address</translation>
+        <source>Verify a message to ensure it was signed with a specified BattlestarCoin address</source>
+        <translation>Verify a message to ensure it was signed with a specified BattlestarCoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -259,8 +259,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>BATL will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>BATL will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
+        <source>BattlestarCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>BattlestarCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -353,8 +353,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about BATL</source>
-        <translation>Show information about BATL</translation>
+        <source>Show information about BattlestarCoin</source>
+        <translation>Show information about BattlestarCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -393,13 +393,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a BATL address</source>
-        <translation>Send coins to a BATL address</translation>
+        <source>Send coins to a BattlestarCoin address</source>
+        <translation>Send coins to a BattlestarCoin address</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for BATL</source>
-        <translation>Modify configuration options for BATL</translation>
+        <source>Modify configuration options for BattlestarCoin</source>
+        <translation>Modify configuration options for BattlestarCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -439,8 +439,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>BATL</source>
-        <translation>BATL</translation>
+        <source>BattlestarCoin</source>
+        <translation>BattlestarCoin</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -449,8 +449,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About BATL</source>
-        <translation>&amp;About BATL</translation>
+        <source>&amp;About BattlestarCoin</source>
+        <translation>&amp;About BattlestarCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -501,15 +501,15 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>BATL client</source>
-        <translation>BATL client</translation>
+        <source>BattlestarCoin client</source>
+        <translation>BattlestarCoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to BATL network</source>
+        <source>%n active connection(s) to BattlestarCoin network</source>
         <translation>
-            <numerusform>%n active connection to BATL network</numerusform>
-            <numerusform>%n active connections to BATL network</numerusform>
+            <numerusform>%n active connection to BattlestarCoin network</numerusform>
+            <numerusform>%n active connections to BattlestarCoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -604,8 +604,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid BATL address or malformed URI parameters.</source>
-        <translation>URI can not be parsed! This can be caused by an invalid BATL address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid BattlestarCoin address or malformed URI parameters.</source>
+        <translation>URI can not be parsed! This can be caused by an invalid BattlestarCoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -745,8 +745,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. BATL can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. BATL can no longer continue safely and will quit.</translation>
+        <source>A fatal error occurred. BattlestarCoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. BattlestarCoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1065,8 +1065,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid BATL address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid BATL address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid BattlestarCoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid BattlestarCoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1084,8 +1084,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>BATL-Qt</source>
-        <translation>BATL-Qt</translation>
+        <source>BattlestarCoin-Qt</source>
+        <translation>BattlestarCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1157,13 +1157,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start BATL after logging in to the system.</source>
-        <translation>Automatically start BATL after logging in to the system.</translation>
+        <source>Automatically start BattlestarCoin after logging in to the system.</source>
+        <translation>Automatically start BattlestarCoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start BATL on system login</source>
-        <translation>&amp;Start BATL on system login</translation>
+        <source>&amp;Start BattlestarCoin on system login</source>
+        <translation>&amp;Start BattlestarCoin on system login</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1172,8 +1172,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the BATL client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the BATL client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the BattlestarCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the BattlestarCoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1202,7 +1202,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the BATL network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the BattlestarCoin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1247,8 +1247,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting BATL.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting BATL.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BattlestarCoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting BattlestarCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1281,6 +1281,11 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location line="+7"/>
+        <source>Use black visual theme (requires restart)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location line="+71"/>
         <source>&amp;OK</source>
         <translation>&amp;OK</translation>
@@ -1309,8 +1314,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting BATL.</source>
-        <translation>This setting will take effect after restarting BATL.</translation>
+        <source>This setting will take effect after restarting BattlestarCoin.</source>
+        <translation>This setting will take effect after restarting BattlestarCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1328,8 +1333,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BATL network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the BATL network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BattlestarCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the BattlestarCoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1402,7 +1407,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start batl: click-to-pay handler</source>
+        <source>Cannot start battlestarcoin: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1570,8 +1575,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the BATL-Qt help message to get a list with possible BATL command-line options.</source>
-        <translation>Show the BATL-Qt help message to get a list with possible BATL command-line options.</translation>
+        <source>Show the BattlestarCoin-Qt help message to get a list with possible BattlestarCoin command-line options.</source>
+        <translation>Show the BattlestarCoin-Qt help message to get a list with possible BattlestarCoin command-line options.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1590,13 +1595,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>BATL - Debug window</source>
-        <translation>BATL - Debug window</translation>
+        <source>BattlestarCoin - Debug window</source>
+        <translation>BattlestarCoin - Debug window</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>BATL Core</source>
-        <translation>BATL Core</translation>
+        <source>BattlestarCoin Core</source>
+        <translation>BattlestarCoin Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1605,8 +1610,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the BATL debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the BATL debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the BattlestarCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the BattlestarCoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1615,8 +1620,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the BATL RPC console.</source>
-        <translation>Welcome to the BATL RPC console.</translation>
+        <source>Welcome to the BattlestarCoin RPC console.</source>
+        <translation>Welcome to the BattlestarCoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1796,8 +1801,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-174"/>
-        <source>Enter a BATL address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a BATL address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BattlestarCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a BattlestarCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1896,7 +1901,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid BATL address</source>
+        <source>WARNING: Invalid BattlestarCoin address</source>
         <translation></translation>
     </message>
     <message>
@@ -1970,8 +1975,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a BATL address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a BATL address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BattlestarCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a BattlestarCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2031,8 +2036,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this BATL address</source>
-        <translation>Sign the message to prove you own this BATL address</translation>
+        <source>Sign the message to prove you own this BattlestarCoin address</source>
+        <translation>Sign the message to prove you own this BattlestarCoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2063,8 +2068,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified BATL address</source>
-        <translation>Verify the message to ensure it was signed with the specified BATL address</translation>
+        <source>Verify the message to ensure it was signed with the specified BattlestarCoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified BattlestarCoin address</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2074,8 +2079,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a BATL address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Enter a BATL address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a BattlestarCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Enter a BattlestarCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2084,8 +2089,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter BATL signature</source>
-        <translation>Enter BATL signature</translation>
+        <source>Enter BattlestarCoin signature</source>
+        <translation>Enter BattlestarCoin signature</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2675,8 +2680,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+171"/>
-        <source>BATL version</source>
-        <translation>BATL version</translation>
+        <source>BattlestarCoin version</source>
+        <translation>BattlestarCoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2685,8 +2690,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or batld</source>
-        <translation>Send command to -server or batld</translation>
+        <source>Send command to -server or battlestarcoind</source>
+        <translation>Send command to -server or battlestarcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2705,13 +2710,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: batl.conf)</source>
-        <translation>Specify configuration file (default: batl.conf)</translation>
+        <source>Specify configuration file (default: battlestarcoin.conf)</source>
+        <translation>Specify configuration file (default: battlestarcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: batld.pid)</source>
-        <translation>Specify pid file (default: batld.pid)</translation>
+        <source>Specify pid file (default: battlestarcoind.pid)</source>
+        <translation>Specify pid file (default: battlestarcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2728,13 +2733,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=batlrpc
+rpcuser=battlestarcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;BATL Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;BattlestarCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"></translation>
     </message>
@@ -2840,8 +2845,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BATL Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BATL will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BATL will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BattlestarCoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong BattlestarCoin will not work properly.</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -3135,7 +3140,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BATL Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. BATL is shutting down.</source>
+        <source>Initialization sanity check failed. BattlestarCoin is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3190,13 +3195,13 @@ for example: alertnotify=echo %%s | mail -s &quot;BATL Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of BATL</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of BATL</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BattlestarCoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of BattlestarCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart BATL to complete</source>
-        <translation>Wallet needed to be rewritten: restart BATL to complete</translation>
+        <source>Wallet needed to be rewritten: restart BattlestarCoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart BattlestarCoin to complete</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3260,8 @@ for example: alertnotify=echo %%s | mail -s &quot;BATL Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+124"/>
-        <source>Unable to bind to %s on this computer. BATL is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. BATL is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. BattlestarCoin is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. BattlestarCoin is probably already running.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3290,7 +3295,7 @@ for example: alertnotify=echo %%s | mail -s &quot;BATL Alert&quot; admin@foo.com
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. BATL is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. BattlestarCoin is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
